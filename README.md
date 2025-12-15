@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hello, I'm Shweta Jadhav 👋
 
-<!--
-**shwetaa24/shwetaa24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 DevOps Engineer | Automation & Cloud Orchestration
 
-Here are some ideas to get you started:
+I specialize in building, optimizing, and maintaining robust CI/CD pipelines and scalable infrastructure. My focus is on leveraging automation to achieve faster, more reliable software delivery.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Core Tech Stack
+
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Cloud** | AWS (EC2, S3, Networking), Azure |
+| **IaC & Config** | **Terraform**, Ansible |
+| **Containers** | **Kubernetes (K8s)**, Docker, Helm |
+| **CI/CD** | Jenkins, GitHub Actions, Git |
+| **Monitoring** | Prometheus, Grafana, ELK Stack |
+| **Scripting** | Python, Bash |
+
+---
+
+### 🌐 Let's Connect
+
+* **LinkedIn:** https://www.linkedin.com/in/shweta-jadhav-3aa652361/
+* **Email:** shwetajadhav2324@gmail.com
+
+---
+

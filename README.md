@@ -23,7 +23,7 @@
 
 ---
 
-# 🛸 Terminal: /home/shivam/about_me
+# 🛸 about_me
 
 <div align="right">
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmtpZzR6NHJidHh4OHR4bHpxM3B5Z3B6Z3B6Z3B6Z3B6Z3B6Z3B6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/L1R1tvI9svkIWwpVYr/giphy.gif" width="180px"/>

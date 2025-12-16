@@ -1,4 +1,4 @@
-<div align="center">
+...<div align="center">
   
 ━━━━━━━━━━━━━━━━━━━<[ ✧ 𝐇𝐄𝐋𝐋𝐎 𝐖𝐎𝐑𝐋𝐃 ✧ ]>━━━━━━━━━━━━━━━━━━━
   
@@ -10,8 +10,7 @@
 
 <div align="center">
 
-![DevOps Header Animation](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGc5bmF1cnhtcGFsaTUzbzgybGw4a2U0Nms5Mjlnem5ocjQyaGJpayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif)
-
+.![DevOps Header Animation](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExazEydDlmMnU4M2o5eXRsYnJjc2t2Nmp5MjhlcGY2ZTBtY2QwaXRqMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tttyCscPfpb9EYVwHb/giphy.gif
 </div> 
 
 <div align="center">

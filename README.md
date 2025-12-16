@@ -1,17 +1,18 @@
-...<div align="center">
-  
+<div align="center">
+  
 ━━━━━━━━━━━━━━━━━━━<[ ✧ 𝐇𝐄𝐋𝐋𝐎 𝐖𝐎𝐑𝐋𝐃 ✧ ]>━━━━━━━━━━━━━━━━━━━
-  
- 𝗪𝗲𝗹𝗰𝗼𝗺𝗲 𝕏 स्वागत 𝕏 𝗪𝗶𝗹𝗹𝗸𝗼𝗺𝗺𝗲𝗻
-  
+  
+ 𝗪𝗲𝗹𝗰𝗼𝗺𝗲 𝕏 स्वागत 𝕏 𝗪𝗶𝗹𝗹𝗸𝗼𝗺𝗺𝗲𝗻
+  
 ━━━━━━━━━━━━━━━━━━━<[ ✧ ❖ ✧ ]>━━━━━━━━━━━━━━━━━━━
 
 </div>
 
 <div align="center">
 
-.![DevOps Header Animation](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExazEydDlmMnU4M2o5eXRsYnJjc2t2Nmp5MjhlcGY2ZTBtY2QwaXRqMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tttyCscPfpb9EYVwHb/giphy.gif
-</div> 
+![DevOps Header Animation](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGc5bmF1cnhtcGFsaTUzbzgybGw4a2U0Nms5Mjlnem5ocjQyaGJpayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif)
+
+</div> 
 
 <div align="center">
 
@@ -33,7 +34,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/Shivam-patil1)
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/YOUR_X_USERNAME)
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)  
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)  
 
 ---
 # 💻 Tech Stack:
@@ -70,6 +71,5 @@
 
 ![Footer Animation](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWp6azVvdjd2YWY1cHp0aG5sdWhwOXdmMnk1ZDZ1NzltMDVuZ2UxaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WSTOQm088Cg1zv6cjO/giphy.gif)
 
-### print("Thanks for visiting Shivam's Profile!!!") 
+### print("Thanks for visiting Shivam's Profile!!!") 
 ### systemctl stop session
-

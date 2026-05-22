@@ -1,77 +1,155 @@
 <div align="center">
-  
-━━━━━━━━━━━━━━━━━━━<[ ✧ 𝐇𝐄𝐋𝐋𝐎 𝐖𝐎𝐑𝐋𝐃 ✧ ]>━━━━━━━━━━━━━━━━━━━
-  
-# 𝗪𝗘𝗟𝗖𝗢𝗠𝗘
-  
-  
-━━━━━━━━━━━━━━━━━━━<[ ✧ ❖ ✧ ]>━━━━━━━━━━━━━━━━━━━
 
-</div>
+# 🚀 SHWETA JADHAV
 
-<div align="center">
+### DevOps Engineer • Cloud Enthusiast • Automation Learner
 
-![Main Header](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmhzYWlwZGpiOWNtOXVuZ29wc3BlYXh0ZWc1am82OGNoc2JyaWw3YyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/66M6ZwJkTLYikvhrqZ/giphy.gif)
-
-</div> 
-
-<div align="center">
-
-[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FShivam-patil1&label=Explorers&labelColor=%23d9e3f0&countColor=%23033500&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FShivam-patil1)
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F72D&center=true&vCenter=true&width=600&lines=AWS+%7C+Docker+%7C+Kubernetes;Terraform+%7C+Jenkins+%7C+Linux;CI%2FCD+Automation+Engineer;Passionate+About+DevOps+%F0%9F%9A%80" />
 
 </div>
 
 ---
 
-# 🛸 about_me
+<div align="center">
 
-<div align="right">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmtpZzR6NHJidHh4OHR4bHpxM3B5Z3B6Z3B6Z3B6Z3B6Z3B6Z3B6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/L1R1tvI9svkIWwpVYr/giphy.gif" width="180px"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmhzYWlwZGpiOWNtOXVuZ29wc3BlYXh0ZWc1am82OGNoc2JyaWw3YyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/66M6ZwJkTLYikvhrqZ/giphy.gif" width="100%" />
+
 </div>
-
-> **Status:** Graduate BCS Student | DevOps Enthusiast | Automation Architect  
-> **Location:** Kolhapur, India 🇮🇳  
-> **Core Mission:** Converting manual chaos into automated harmony. I focus on building infrastructure that doesn't just work, but scales and heals itself.
-
-* **🏗️ Infrastructure:** Architecting CI/CD pipelines and managing Cloud environments.
-* **🐋 Containerization:** Orchestrating microservices with Docker and Kubernetes.
-* **🐍 Automation:** Writing Python and Bash scripts to eliminate repetitive tasks.
 
 ---
 
-# 🔗 Connection Hub:
+# 👨‍💻 About Me
+
+```yaml
+Name: Shweta Jadhav
+Role: DevOps Engineer
+Location: Maharashtra, India
+Focus: Cloud Infrastructure & Automation
+Learning: Kubernetes, DevSecOps, Monitoring
+```
+
+💡 Passionate about building scalable infrastructure, automating workflows, and improving deployment processes.
+
+🚀 Interested in:
+- Cloud Computing
+- CI/CD Automation
+- Infrastructure as Code
+- Containerization
+- Linux Administration
+
+---
+
+# 🌐 Connect With Me
+
 <p align="left">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://github.com/Shivam-patil1" target="blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://x.com/YOUR_X_USERNAME" target="blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
-<a href="mailto:YOUR_EMAIL@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 </p>
 
 ---
 
-# 🛠️ Technology Stack
+# ⚙️ Tech Stack
 
-### 🌌 Cloud & Orchestration
-| Platform | Tools |
-| :--- | :--- |
-| **Cloud Providers** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white) ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=google-cloud&logoColor=white) |
-| **Containerization** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/K8s-326CE5?style=flat&logo=kubernetes&logoColor=white) |
-| **IaC & Config** | ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white) ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white) |
+## ☁️ Cloud & DevOps
 
-### ⚡ Pipeline & Development
-* **CI/CD:** ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white) ![GH Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
-* **Version Control:** ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-* **Scripting:** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 
 ---
 
-# 📊 Analytics & Insights
+## 🖥️ Operating System & Tools
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+
+---
+
+## 💻 Programming & Scripting
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash_Scripting-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+---
+
+# 🚀 Featured Projects
+
+## 🔹 AWS Infrastructure Deployment
+- Managed EC2, VPC, Security Groups & IAM
+- Configured Linux servers and Nginx
+- Automated infrastructure provisioning
+
+## 🔹 CI/CD Automation
+- Built pipelines using Jenkins & GitHub Actions
+- Automated deployment workflows
+- Reduced manual deployment efforts
+
+## 🔹 Dockerized Applications
+- Containerized applications using Docker
+- Worked with Kubernetes basics
+- Managed multi-container environments
+
+---
+
+# 📊 GitHub Analytics
+
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Shivam-patil1&theme=merko&show_icons=true&hide_border=true&count_private=true" height="170px"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivam-patil1&theme=merko&show_icons=true&hide_border=true&layout=compact" height="170px"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<br/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
 
-### 🏆 Milestone Trophies
-![](
+</div>
+
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=7"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+[![Shweta's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night)](https://github.com/YOUR_USERNAME)
+
+---
+
+# ⚡ Quote
+
+> "Automate everything that can be automated." 🚀
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile ⭐
+
+</div>

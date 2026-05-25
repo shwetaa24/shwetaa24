@@ -20,14 +20,6 @@
 
 # 👨‍💻 About Me
 
-```yaml
-Name: Shweta Jadhav
-Role: DevOps Engineer
-Location: Maharashtra, India
-Focus: Cloud Infrastructure & Automation
-Learning: Kubernetes, DevSecOps, Monitoring
-```
-
 💡 Passionate about building scalable infrastructure, automating workflows, and improving deployment processes.
 
 🚀 Interested in:

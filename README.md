@@ -33,7 +33,7 @@ I'm a **DevOps Engineer** passionate about building reliable, automated, and sca
 ---
 
 ### 📫 Let's Connect
-* **LinkedIn:** [linkedin.com/in/shweta-jadhav](https://www.linkedin.com/in/shweta-jadhav)
+* **LinkedIn:** [linkedin.com/in/shweta-jadhav](https://www.linkedin.com/in/shwetaj24/)
 * **Email:** shwetajadhav2324@gmail.com
 
 ---

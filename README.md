@@ -1,9 +1,5 @@
 # Hi there! I'm Shweta Jadhav 👋
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00F72D&center=true&vCenter=true&width=600&lines=AWS+%7C+Docker+%7C+Kubernetes;Terraform+%7C+Jenkins+%7C+Linux;CI%2FCD+Automation+Engineer;Passionate+About+DevOps+%F0%9F%9A%80" />
-</p>
-
 I'm a **DevOps Engineer** passionate about building reliable, automated, and scalable infrastructure. I bridge the gap between development and operations by turning manual processes into efficient, repeatable pipelines.
 
 ---

@@ -32,35 +32,6 @@ I'm a **DevOps Engineer** who automates the software delivery lifecycle, from co
 
 </div>
 
----
-
-### 🚀 Featured Projects
-
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <h4>🔄 CI/CD Pipeline</h4>
-      <p>Build, test, and deploy a containerized app automatically.</p>
-      <sub><b>GitHub Actions · Docker · AWS</b></sub><br/>
-      <a href="#">View project →</a>
-    </td>
-    <td width="33%" valign="top">
-      <h4>☁️ Infrastructure as Code</h4>
-      <p>Reusable Terraform modules to provision cloud infrastructure.</p>
-      <sub><b>Terraform · AWS</b></sub><br/>
-      <a href="#">View project →</a>
-    </td>
-    <td width="33%" valign="top">
-      <h4>☸️ Kubernetes Deployment</h4>
-      <p>Scalable app deployment with monitoring.</p>
-      <sub><b>Kubernetes · Helm · Prometheus</b></sub><br/>
-      <a href="#">View project →</a>
-    </td>
-  </tr>
-</table>
-
----
-
 ### 📊 GitHub Stats
 
 <div align="center">
